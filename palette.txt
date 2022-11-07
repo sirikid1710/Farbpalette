@@ -3,6 +3,9 @@ Farbpalette
 
 rot
 grün
+türkis
+hellgrün
+dunkelgrün
 blau
 hellblau
 dunkelblau
