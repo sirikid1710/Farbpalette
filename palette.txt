@@ -1,0 +1,9 @@
+Farbpalette
+
+
+rot
+grün
+blau
+gelb
+
+Sind alles tolle Farben
